@@ -26,12 +26,13 @@
   <!-- Java related -->
   <img src="./img/icons/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="./img/icons/spring.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="./img/icons/maven.png" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
   <!-- JS related -->
   <img src="./img/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="./img/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="./img/icons/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="./img/icons/npm.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
-  <img src="./img/icons/vuejs.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
+  <img src="./img/icons/reactnative.png" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <!-- GO related -->
   <img src="./img/icons/go.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
   <!-- Lua related -->
