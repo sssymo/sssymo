@@ -17,6 +17,8 @@
 
 </div>
 
+* About me
+
 <p align="center">
 Full-Stack developer & computer science student.
 </p>
