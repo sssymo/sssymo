@@ -59,4 +59,5 @@
 
 <p align="center">
   <img src="./img/icons/linux.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="./img/icons/windows.svg"  title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 </p>
