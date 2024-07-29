@@ -18,6 +18,12 @@
 </div>
 
 <p align="center">
+Full-Stack developer & computer science student.
+</p>
+    
+* Language & Tools
+
+<p align="center">
   <!-- LANGUAGE related -->
   <!-- C/C++ related -->
   <img src="./img/icons/c.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
