@@ -47,7 +47,7 @@
   <!-- Db related -->
   <img src="./img/icons/postgresql.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
   <img src="./img/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="./img/icons/oracle.png" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+  <img src="./img/icons/Oracle.png" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
   <!-- Containers related -->
   <img src="./img/icons/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="./img/icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
