@@ -1,11 +1,6 @@
 <div align="center">
 
-<a href="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-    <img
-        src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-        width="100"
-    />
-</a>
+
 
 <p>
   <a href="https://git.io/typing-svg">
