@@ -27,7 +27,7 @@ Full-Stack developer & computer science student.
   <!-- LANGUAGE related -->
   <!-- C/C++ related -->
   <img src="./img/icons/c.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="./img/icons/c#.png"  title="C#" alt="C#" width="40" height="40"/>&nbsp;  
+  <img src="./img/icons/csharp.png"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="./img/icons/cplusplus.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="./img/icons/gcc.svg"  title="Gcc" alt="Gcc" width="40" height="40"/>&nbsp;
   <!-- Java related -->
