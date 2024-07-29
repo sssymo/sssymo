@@ -51,18 +51,9 @@
   <!-- Containers related -->
   <img src="./img/icons/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="./img/icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-</p>
-
-<p align="center">
   <!-- Material design related -->
   <img src="./img/icons/materialui.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="./img/icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-
-
-</p>
-
-<p align="center">
-
   <img src="./img/icons/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
